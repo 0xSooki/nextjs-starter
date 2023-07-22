@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"@heroicons/react": "^2.0.18",
-		"autoprefixer": "^10.4.7",
+		"autoprefixer": "^10.4.14",
 		"next": "12.1.6",
 		"next-themes": "^0.2.0",
 		"postcss": "^8.4.14",
